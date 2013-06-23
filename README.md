@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Angular Express Seed
 
 Start an awesome app with AngularJS on the front, Express + Node on the back. This project is an
@@ -79,3 +80,9 @@ your friends.
 
 ## License
 MIT
+=======
+btford-intro-app
+================
+
+AngularNode App Skeleton
+>>>>>>> 671ef3c23fca250a56ce680d44b72a8d0eb3ea6c
